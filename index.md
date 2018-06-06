@@ -19,7 +19,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
-{% Welcome To Data carpentry in Misrak pollytechnic College %}
+{% comment %}
   HEADER
 
   Edit the values in the block above to be appropriate for your workshop.
